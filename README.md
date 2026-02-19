@@ -52,7 +52,7 @@ CuraChain is a blockchain-based medical crowdfunding platform built on the Solan
 ## Technical Architecture
 
 ### Smart Contract Design
-Built using the Anchor framework on Solana with a focus on security, efficiency, and scalability:
+Built using the Anchor framework on Solana with a focus on security, efficiency, and scalability-
 
 #### Account Structure
 - **Administrator Account**: Controls platform operations, verifier management
